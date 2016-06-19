@@ -1,3 +1,10 @@
+/****************************************
+* Vecsei Gábor
+* 2013
+* https://gaborvecsei.wordpress.com/
+* https://github.com/gaborvecsei
+****************************************/
+
 #ifndef CONSOLETRON_H_INCLUDED
 #define CONSOLETRON_H_INCLUDED
 

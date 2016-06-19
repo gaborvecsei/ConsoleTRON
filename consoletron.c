@@ -1,3 +1,10 @@
+/****************************************
+* Vecsei Gábor
+* 2013
+* https://gaborvecsei.wordpress.com/
+* https://github.com/gaborvecsei
+****************************************/
+
 #define MAX_X 60
 #define MAX_Y 22
 

@@ -1,3 +1,11 @@
+/****************************************
+* Vecsei Gábor
+* 2013
+* https://gaborvecsei.wordpress.com/
+* https://github.com/gaborvecsei
+****************************************/
+
+
 #include <windows.h>
 #include <time.h>
 #include "consoletron.h"
