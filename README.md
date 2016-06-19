@@ -20,11 +20,7 @@ The same thing happens if you bump into an obstacle.
 ## Pictures
 
 #####Gameplay gif
-<img  height=300 src="https://github.com/gaborvecsei/OnalloLaboratorium/blob/master/GameplayImages/Gameplay1.gif" />
-#####Kick the ball from the other
-<img  height=300 src="https://github.com/gaborvecsei/OnalloLaboratorium/blob/master/GameplayImages/BallKick.gif" />
-#####Get Speed power up
-<img  height=300 src="https://github.com/gaborvecsei/OnalloLaboratorium/blob/master/GameplayImages/GetSpeedPowerUp.gif" />
+<img  height=300 src="https://github.com/gaborvecsei/ConsoleTRON/blob/master/ConsoleTRON_gameplay.gif" />
 
 ## Controls
 
@@ -35,6 +31,8 @@ The same thing happens if you bump into an obstacle.
 You can change the speed of the game. If you are on the main menu than you just have to press '4' than you
 can choose between: slow ('1'), normal ('2'), fast ('3').
 
+You can exit with ESC.
+
 ## About
 
 Vecsei Gábor
@@ -44,6 +42,7 @@ Vecsei Gábor
 [Personal Blog][1]
 
 2013 fall
+
 
 
 ENG: If you would like to use parts of my work, you have to mention me as the creator.
